@@ -1,0 +1,2 @@
+# qurani-ayats
+Islamic information
